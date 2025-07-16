@@ -1,6 +1,6 @@
 python-dotenv
-langgraph
-langchain
-langchain-google-genai
-google-generativeai==0.8.5
-google-ai-generativelanguage==0.6.15
+langgraph==0.5.3
+langchain==0.3.26
+langchain-google-genai==2.1.8
+google-generativeai==0.7.0
+google-ai-generativelanguage==0.5.2
