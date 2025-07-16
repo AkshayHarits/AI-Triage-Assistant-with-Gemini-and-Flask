@@ -36,7 +36,7 @@ AI-Triage-Assistant/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/AI-Triage-Assistant.git
+git clone https://github.com/AkshayHarits/AI-Triage-Assistant.git
 cd AI-Triage-Assistant
 ```
 
@@ -57,10 +57,11 @@ pip install -r requirements.txt
 
 Create a `.env` file in the root directory:
 
-```ini
+```with
 GOOGLE_API_KEY=your_gemini_api_key
 SENDER_EMAIL=your_gmail_address
 EMAIL_APP_PASSWORD=your_app_specific_password
+FLASK_SECRET_KEY=your_secret_key_here(any_random_string) 
 ```
 
 Note: Never share or push your `.env` file to GitHub.
