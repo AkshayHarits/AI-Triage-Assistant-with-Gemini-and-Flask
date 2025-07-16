@@ -36,7 +36,7 @@ AI-Triage-Assistant/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/AI-Triage-Assistant.git
+git clone https://github.com/AkshayHarits/AI-Triage-Assistant.git
 cd AI-Triage-Assistant
 ```
 
